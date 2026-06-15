@@ -1,3 +1,6 @@
+# AI Development Stack — File Structure
+
+```text
 ai-dev-stack/
 │
 ├── 00-core-skills/
