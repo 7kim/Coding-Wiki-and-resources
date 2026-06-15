@@ -25,6 +25,10 @@ ai-dev-stack/
 │   ├── postgresql.md
 │   ├── pgadmin.md
 │   └── redis.md
+├── 04.5-backend/
+│   ├── vercel.md
+│   ├── insforge.md
+│   └── supabase.md
 │
 ├── 05-infrastructure/
 │   ├── docker.md
