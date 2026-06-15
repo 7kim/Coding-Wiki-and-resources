@@ -4,7 +4,6 @@
 ai-dev-stack/
 │
 ├── 00-core-skills/
-│   ├── software-engineering.md
 │   ├── shared-memory.md
 │   └── srs-software-requirements-specification.md
 │
@@ -47,16 +46,18 @@ ai-dev-stack/
 ├── 09-ai-providers/
 │   ├── claude-code.md
 │   ├── gemini-cli.md
-│   ├── opencode.md
 │   ├── antigravity-cli.md
+|   ├── opencode.md
 │   └── deepseek-api.md
 │
 ├── 10-ai-harnesses/
-│   ├── claude-code-harness.md
-│   ├── codex.md
-│   ├── hermes.md
+│   ├── claude-code.md
+│   ├── Antigravity-IDE
+|   ├── Antigravity 2.0.md
+|   ├── Antigravity-CLI.md
+|   ├── opencode.md
 │   ├── ollama.md
-│   ├── opencode.md
+│   ├── hermes.md
 │   └── openclaw.md
 │
 ├── 11-knowledge-base-rag/
@@ -66,7 +67,4 @@ ai-dev-stack/
 │   ├── python-tooling.md
 │   ├── javascript-tooling.md
 │   └── rust-tooling.md
-│
-├── 13-fullstack-preference.md
-│
-└── 14-ai-agent-instructions.md
+└── 13-PAOS.md
