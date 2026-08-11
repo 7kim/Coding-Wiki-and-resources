@@ -5,11 +5,15 @@ ai-dev-stack/
 │
 ├── 00-core-skills/
 │   ├── shared-memory.md
+│   ├── ponytail.md
+│   ├── ECC.md
+│   ├── book-to-skill.md
 │   └── srs-software-requirements-specification.md
 │
 ├── 01-programming-languages/
 │   ├── python.md
 │   ├── rust.md
+│   ├── c++.md
 │   └── javascript-typescript.md
 │
 ├── 02-frontend-stack/
@@ -20,13 +24,17 @@ ai-dev-stack/
 │
 ├── 03-desktop-development/
 │   └── tauri.md
+│   ├── electron.md
 │
 ├── 04-databases/
 │   ├── postgresql.md
 │   ├── pgadmin.md
 │   └── redis.md
+│
 ├── 04.5-backend/
 │   ├── vercel.md
+│   ├── hostinger.md
+│   ├── cloudfare.md
 │   ├── insforge.md
 │   └── supabase.md
 │
@@ -62,12 +70,21 @@ ai-dev-stack/
 |   ├── opencode.md
 │   ├── ollama.md
 │   ├── hermes.md
+│   ├── llama.cpp
+│   ├── crush
+│   ├── pi
+│   ├── cline
 │   └── openclaw.md
 │
 ├── 11-knowledge-base-rag/
 │   └── obsidian.md
+│   ├── notion.md
 │
 ├── 12-development-environment/
+│   ├── mise.md
+│   ├── uv.md
+│   ├── bun.md
+│   ├── pnpm.md
 │   ├── python-tooling.md
 │   ├── javascript-tooling.md
 │   └── rust-tooling.md
