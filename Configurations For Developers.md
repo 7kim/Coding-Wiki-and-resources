@@ -22,6 +22,7 @@ Data Wrangler
 C/C++
 OpenCode
 npm intellisense
+colab
 ```
 
 ## IDE Workspace settings.json
